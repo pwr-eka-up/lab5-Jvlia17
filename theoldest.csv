@@ -1,0 +1,8 @@
+FileName;Name;Surname;Age;Salary
+file0.txt;Julian;Evans;71;2447
+file1.txt;Lily;Johnson;9;2561
+file2.txt;Lily;Murphy;32;2543
+file3.txt;Harper;Adams;20;2730
+file4.txt;Scarlett;Baker;59;4369
+
+The oldest:;Julian;Evans;71;2447
